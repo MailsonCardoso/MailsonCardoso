@@ -1,5 +1,5 @@
 
-## Opa seja bem vindo! sou Mailson Cardoso Analista de Infrestrutura e curioso DEV.
+## Olá! sou Mailson Cardoso Analista de Infrestrutura e curioso DEV.
 <div>
   <a href="https://github.com/MailsonCardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mailsoncardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
